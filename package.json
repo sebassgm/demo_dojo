@@ -1,0 +1,22 @@
+{
+  "name": "demo_dojo",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha ./app/tests/*test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebassgm/demo_dojo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebassgm/demo_dojo/issues"
+  },
+  "homepage": "https://github.com/sebassgm/demo_dojo#readme"
+}
